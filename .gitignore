@@ -1,0 +1,14 @@
+VOCdevkit/
+outputs/
+runs/
+mnist_dataset/
+
+*.pt
+*.pth
+*.onnx
+
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
